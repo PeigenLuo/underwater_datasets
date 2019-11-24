@@ -64,7 +64,7 @@
 - Rockfish: [Data](https://web.whoi.edu/singh/underwater-imaging/datasets/rockfish/).
 - Fish Recognition Ground-Truth data: [Data](http://groups.inf.ed.ac.uk/f4k/GROUNDTRUTH/RECOG/), [Paper](https://homepages.inf.ed.ac.uk/rbf/PAPERS/PID2432553.pdf).
 - Oceanwide Images: [Data](http://www.oceanwideimages.com/).
-- Fish detection and tracking: [Data](http://www.perceivelab.com/index-dataset.php?name=Fish_Detection), [Paper]http://groups.inf.ed.ac.uk/f4k/PAPERS/MTAP-Perla.pdf.
+- Fish detection and tracking: [Data](http://www.perceivelab.com/index-dataset.php?name=Fish_Detection), [Paper](http://groups.inf.ed.ac.uk/f4k/PAPERS/MTAP-Perla.pdf).
 - Fish Trajectory Ground Truth Dataset: [Data](http://groups.inf.ed.ac.uk/f4k/GROUNDTRUTH/BEHAVIOR/), [Paper](http://www.bmva.org/bmvc/2013/Papers/paper0021/paper0021.pdf).
 
 #### E. Trash and marine debris
