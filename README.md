@@ -71,14 +71,14 @@
 - Deep-sea debris database: [Data](http://www.godac.jamstec.go.jp/catalog/dsdebris/e/index.html), [Paper](https://ieeexplore.ieee.org/abstract/document/8793975).
 
 
-*### 6. Acoustics dataset
-- Acoustic underwater dataset: [Data](http://users.ece.utexas.edu/~bevans/projects/underwater/datasets/), [Paper](http://users.ece.utexas.edu/~bevans/projects/underwater/datasets/ARLUT_01_doc_01.pdf).
-- DIDSON dataset: [Data1](https://osf.io/sxek6/), [Data2](https://osf.io/xy32d/), [Data3](https://figshare.com/collections/An_Underwater_Observation_Dataset_for_Fish_Classification_and_Fishery_Ecology/4039202), [Paper](researchgate.net/publication/328177766_An_underwater_observation_dataset_for_fish_classification_and_fishery_assessment).
-- UNDERWATER CAVES SONAR DATA SET: [Data](https://cirs.udg.edu/caves-dataset/), [Paper](https://journals.sagepub.com/doi/pdf/10.1177/0278364917732838).
-- Spectrogram Analysis: [Data](https://sites.google.com/site/tomalampert/data-sets?authuser=0), [Paper](https://hal.archives-ouvertes.fr/file/index/docid/644937/filename/LampertXX.pdf).
+### 6. Acoustics dataset
+- *Acoustic underwater dataset: [Data](http://users.ece.utexas.edu/~bevans/projects/underwater/datasets/), [Paper](http://users.ece.utexas.edu/~bevans/projects/underwater/datasets/ARLUT_01_doc_01.pdf).*
+- *DIDSON dataset: [Data1](https://osf.io/sxek6/), [Data2](https://osf.io/xy32d/), [Data3](https://figshare.com/collections/An_Underwater_Observation_Dataset_for_Fish_Classification_and_Fishery_Ecology/4039202), [Paper](researchgate.net/publication/328177766_An_underwater_observation_dataset_for_fish_classification_and_fishery_assessment).
+- UNDERWATER CAVES SONAR DATA SET: [Data](https://cirs.udg.edu/caves-dataset/), [Paper](https://journals.sagepub.com/doi/pdf/10.1177/0278364917732838).*
+- *Spectrogram Analysis: [Data](https://sites.google.com/site/tomalampert/data-sets?authuser=0), [Paper](https://hal.archives-ouvertes.fr/file/index/docid/644937/filename/LampertXX.pdf).*
 
 ### 7. Docking dataset
-- Underwater Docking Images Dataset(UDID): [Data](http://vision.is.tohoku.ac.jp/~liushuang/a-vision-based-underwater-docking-system/dataset/), [Paper](https://arxiv.org/abs/1712.04138).
+- *Underwater Docking Images Dataset(UDID): [Data](http://vision.is.tohoku.ac.jp/~liushuang/a-vision-based-underwater-docking-system/dataset/), [Paper](https://arxiv.org/abs/1712.04138).*
 
 ### 8. Temperature dataset
-- Underwater temperature dataset: [Data](https://www.seanoe.org/data/00510/62120/).*
+- *Underwater temperature dataset: [Data](https://www.seanoe.org/data/00510/62120/).*
